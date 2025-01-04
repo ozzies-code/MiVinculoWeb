@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\MiVinculoWeb\bin\Debug\MiVinculoWeb.exe.config
+C:\Users\oswal\source\repos\MiVinculoWeb\bin\Debug\MiVinculoWeb.exe
+C:\Users\oswal\source\repos\MiVinculoWeb\bin\Debug\MiVinculoWeb.pdb
+C:\Users\oswal\source\repos\MiVinculoWeb\bin\Debug\MiVinculoWeb.xml
+C:\Users\oswal\source\repos\MiVinculoWeb\obj\Debug\MiVinculoWeb.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\MiVinculoWeb\obj\Debug\MiVinculoWeb.Form1.resources
+C:\Users\oswal\source\repos\MiVinculoWeb\obj\Debug\MiVinculoWeb.Resources.resources
+C:\Users\oswal\source\repos\MiVinculoWeb\obj\Debug\MiVinculoWeb.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\MiVinculoWeb\obj\Debug\MiVinculoWeb.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\MiVinculoWeb\obj\Debug\MiVinculoWeb.exe
+C:\Users\oswal\source\repos\MiVinculoWeb\obj\Debug\MiVinculoWeb.xml
+C:\Users\oswal\source\repos\MiVinculoWeb\obj\Debug\MiVinculoWeb.pdb
